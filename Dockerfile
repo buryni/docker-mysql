@@ -1,4 +1,4 @@
-FROM phusion/baseimage:0.9.9
+FROM phusion/baseimage:0.9.17
 
 ENV HOME /root
 
